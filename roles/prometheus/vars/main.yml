@@ -1,0 +1,1 @@
+COMPONENTS: [ user, cart, catalogue, shipping, nginx, mongodb, mysql, dispatch, rabbitmq, redis, payment ]
