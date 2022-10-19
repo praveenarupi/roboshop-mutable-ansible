@@ -1,0 +1,4 @@
+COMPONENT: frontend
+APP_TYPE: nginx
+LOG_FILE: /var/log/nginx/access.log
+LOG_TYPE: raw
